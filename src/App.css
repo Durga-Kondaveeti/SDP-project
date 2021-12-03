@@ -1,0 +1,67 @@
+.body
+{
+ font-family: 'work Sans',sans-serif;
+ font-weight:300 ;
+ background-image: url("img/horoscope.jpg");
+ background-size: 29cm;
+ padding:10px ;
+}
+.main
+{
+
+  background-size: auto;
+}
+.container
+{
+  width: 80px;
+  margin:0 auto;
+}
+.homes
+{
+  float:right;
+  cursor: pointer;
+  padding-right:100px ;
+
+}
+
+li
+{
+display:inline-table;
+margin-left:20px;
+font-size:10px;
+color: seashell;
+text-transform: uppercase;
+
+}
+.text
+{
+  color: aliceblue;
+
+}
+.signs
+{
+  padding: 100px;
+ 
+  font-size:20px;
+ cursor: pointer;
+} 
+.grid
+{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap:10px;
+  color: aqua;
+}
+.App
+{
+  font: 200;
+  color: whitesmoke
+  ;
+}
+
+.getSigns
+{
+
+  color: aqua;
+}
+

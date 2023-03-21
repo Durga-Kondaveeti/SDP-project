@@ -1,2 +1,2 @@
 # SDP-project
-Durga shankar kondaveeti-telegram
+Durga shankar kondaveeti
